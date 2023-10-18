@@ -81,6 +81,10 @@ h1 {
 }
 
 .tecla_tim{
+    background-image: url(/Imagens/giphy.gif);
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 
