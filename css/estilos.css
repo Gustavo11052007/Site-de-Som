@@ -113,6 +113,10 @@ h1 {
 }
 
 .tecla_psh{
+  background-image: url(/Imagens/maxresdefault.jpg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeatS;
 
 }
 
