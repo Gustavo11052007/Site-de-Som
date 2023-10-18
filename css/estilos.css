@@ -121,7 +121,10 @@ h1 {
 }
 
 .tecla_tic{
-
+  background-image: url(/Imagens/Pablo.jpg);
+background-size: 100%;
+background-position: center;
+background-repeat: no-repeats;
 }
 
 .tecla_tom{
