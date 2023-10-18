@@ -67,7 +67,10 @@ h1 {
 }
 
 .tecla_pom{
-  
+  background-image: url(/Imagens/springtrap-fire.gif);
+  background-size: 150;
+  background-position: center;
+  background-repeat: no-repeats;
 }
 
 .tecla_clap{
