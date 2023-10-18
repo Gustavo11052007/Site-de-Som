@@ -89,6 +89,10 @@ h1 {
 }
 
 .tecla_puff{
+  background-image: url(/Imagens/meme-cavalo.gif);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
 
 }
 
