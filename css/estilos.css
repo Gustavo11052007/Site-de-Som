@@ -9,6 +9,8 @@
 body {
   align-items: center;
   background-image: url(../Imagens/giga.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: center;
   flex-direction: column;
