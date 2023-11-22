@@ -30,7 +30,8 @@ h1 {
   border-radius: 30px;
   display: grid;
   gap: 10px;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);￼
+
   padding: 10px;
 }
 
@@ -116,7 +117,7 @@ h1 {
 
 .tecla_psh{
   background-image: url(/Imagens/maxresdefault.jpg);
-  background-size: 180%;
+  background-size: 175%;
   background-position: center;
   background-repeat: no-repeatS;
 
@@ -131,7 +132,7 @@ background-repeat: no-repeats;
 
 .tecla_tom{
  background-image: url(/Imagens/33ce74f4b0cc155f414d6b196d3b47415bbce8a6fe4a585c9beccf76c132ca1a_1.jpg);
- background-size: 125%;
+ background-size: 120%;
  background-position: center;
  background-repeat: no-repeats;
 }
