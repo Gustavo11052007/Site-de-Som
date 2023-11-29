@@ -1,4 +1,3 @@
-alert("teste")
 
 function tocarSomPom (idElemento){
     document.querySelecto(idElemento).play()
