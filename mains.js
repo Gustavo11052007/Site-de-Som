@@ -1,3 +1,5 @@
+alert("teste")
+
 function tocarSomPom (){
     document.querySelector('#som_tecla_pom').play();
 }
@@ -14,6 +16,7 @@ while (contador < listadeTeclas.length ){
 
     tocarSomPom(`#som_${instrumento[1]}`);
 
+    
 }
 
 contador = contador + 1;
