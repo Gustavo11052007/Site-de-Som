@@ -1,6 +1,6 @@
 
 function tocarSomPom (idElemento){
-    document.querySelecto(idElementoAudio).play()
+    document.querySelecto(idElemento).play()
 
 }
 
